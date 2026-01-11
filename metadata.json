@@ -1,0 +1,7 @@
+{
+  "name": "OmniScan AI",
+  "description": "A modern, multimodal AI visual assistant for identifying food, plants, and objects, providing health insights, meal planning, and safety advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
